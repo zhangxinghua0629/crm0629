@@ -6,6 +6,7 @@ public class happy {
 		System.out.println("第二次");
 		System.out.println("回复第一次");
 		System.out.println("然而并不知道");
+		System.out.println("宝宝心里苦");
 	}
 
 }
